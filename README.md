@@ -5,7 +5,7 @@
 2. [Vue d'accueil](#Vue-daccueil)
 3. [Vue par mois](#Vue-par-mois)
 4. [Les technologies utilisées](#Les-technologies-utilisées)
-5. [Conclusion du projet](#Conclusion-du-projet)
+5. [Etat d'avancement du projet](#Etat-davancement-du-projet)
 
 ## Présentation du projet
 Le projet edt-java est un projet d'application mobile développé avec le langage de programmation Java.
